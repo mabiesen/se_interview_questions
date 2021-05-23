@@ -1,0 +1,15 @@
+1. Do you feel that management encourages best practices and standardization of best practices?
+A:
+
+2. What is your process for addressing cruft that you find in the course of a story? Does your department have such an SOP?
+A:
+
+3. Do you feel your department adequately supports reduction  of tech debt, or do you find yourself frequently building on top of bad code and/or contributing more tech debt to the codebase?
+A:
+
+4. Do you feel that your department has standardized and centralized practices in such a fashion that newcomers can quickly acclimate to your department's conventions? IF not, do you find this to be an issue?
+A:
+
+5. Similarly: lets say library 'x' is in the process of being deprecated; is that information well-known enough throughout the department such that future code changes no longer reference the deprecated lib?
+A:
+

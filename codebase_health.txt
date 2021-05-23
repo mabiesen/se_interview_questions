@@ -7,12 +7,19 @@ A:
 3. Do the TODOs in your database suggest a frustration  between the engineer's opinion of best practice and how-they-were-compelled-to-write-bad-code?
 A:
 
-4. Do objects in your codebase use a state machine to transition safely between states?
+4. Do objects in your codebase use a state machine to transition safely between states? If not, why not?
 A:
 
-5. Do you find your application truly owns most of its features, or do you find that many features have been transitioned away from the application (i.e. into oa secondary  batching system/other-unofficial-production-service)?
+5. Do you find your application truly owns most of its features, or do you find that many features have been transitioned away from the application (i.e. into oa secondary-batching-system/other-unofficial-production-service/manual-operations-work)?
 A:
 
-6. IF data validations for your application occur at the application layer rather than the database layer, do ALL your DB operations utilize the application layer?
+6. IF data validations for your application occur at the application layer rather than the database layer, do ALL your DB operations utilize the application layer (i.e. do  you use active record for all rails db inserts/updates/deletes)?
+A:
+
+7. Are your tests structured DRY such that new features/changes can be easily tested using existing objects/mocks/feature-steps/etc? Or do you find that lack of testing structure contributes negatively to coding efficiency? OR do you bounce
+ on the Devil and write most of your tests from scratch, without concern for DRY?
+A:
+
+8. Do all systems which require multi-tiered permissioning have multi-tiered permissioning? (this question primarily relates to call center portals)
 A:
 
