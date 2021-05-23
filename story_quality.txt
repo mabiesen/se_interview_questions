@@ -1,10 +1,8 @@
 1. Is your relationship with story submitters strong enough that discrepancies in understanding can be rectified quickly? like in a sidebar-after-standups type way?
 A:
 
-
 2. How often do you have difficulty applying a story to code? do you feel stories are always submitted with a respectable quantity of information, or do you find that submitters often lack information?
 A:
-
 
 3. Do you feel that there is proper distancing of management and SEs in the assessment of story points?
 A:
