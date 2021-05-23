@@ -16,10 +16,15 @@ A:
 6. IF data validations for your application occur at the application layer rather than the database layer, do ALL your DB operations utilize the application layer (i.e. do  you use active record for all rails db inserts/updates/deletes)?
 A:
 
-7. Are your tests structured DRY such that new features/changes can be easily tested using existing objects/mocks/feature-steps/etc? Or do you find that lack of testing structure contributes negatively to coding efficiency? OR do you bounce
- on the Devil and write most of your tests from scratch, without concern for DRY?
+7. Are your tests structured DRY such that new features/changes can be easily tested using existing objects/mocks/feature-steps/etc? Or do you find that lack of testing structure contributes negatively to coding efficiency? OR do you bounce on the Devil and write most of your tests from scratch, without concern for DRY?
 A:
 
-8. Do all systems which require multi-tiered permissioning have multi-tiered permissioning? (this question primarily relates to call center portals)
+8. Do all systems which require multi-tiered permissioning have multi-tiered permissioning? (this question primarily relates to call center portals). If not, why not?
+A:
+
+9. How frequently do your unit tests fail as a result of being "flaky"?
+A:
+
+10. What percentage of your codebase is currently untested?
 A:
 
