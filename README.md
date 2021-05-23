@@ -32,3 +32,4 @@ By design, there is some repetition across questions, the goal being to feel out
 11. Consistently insufficient staffing
 12. A department culture that avoids knowledge sharing
 13. A department culture that doesn't really care about "good code"
+14. A large portion of the codebase that is not human readable: poor naming conventions, mixed responsibilities among classes/modules/methods, strong and/or hidden couplings, etc.
