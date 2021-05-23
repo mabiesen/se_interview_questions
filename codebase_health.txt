@@ -10,7 +10,7 @@ A:
 4. Do objects in your codebase use a state machine to transition safely between states? If not, why not?
 A:
 
-5. Do you find your application truly owns most of its features, or do you find that many features have been transitioned away from the application (i.e. into oa secondary-batching-system/other-unofficial-production-service/manual-operations-work)?
+5. Do you find your application truly owns most of its features, or do you find that many features have been transitioned away from the application (i.e. into oa secondary-batching-system/other-unofficial-production-service/manual-operations-work)? SPECIAL EMPHASIS ON COMPLIANCE CONCERNS
 A:
 
 6. IF data validations for your application occur at the application layer rather than the database layer, do ALL your DB operations utilize the application layer (i.e. do  you use active record for all rails db inserts/updates/deletes)?

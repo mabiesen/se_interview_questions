@@ -7,7 +7,7 @@ A:
 3. Do you have experience in other SE departments in other companies?
 A:
 
-4. IN GENERAL: How long have you been in tech?
+4. IN GENERAL: How long have you been in tech? Self-taught or schooling?
 A:
 
 5. How do you assess your skill level relative to your peers in your current department as regards "good code"?

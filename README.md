@@ -7,7 +7,7 @@ By design, there is some repetition across questions, the goal being to feel out
 
 ## WHAT IS MY IDEAL SE ENVIRONMENT? Fleshing out my thoughts
 
-1. A healthy codebase that is fairly straightforward to work with. This includes well-structured DRY testing, minimal cruft, sensibly named methods/classes/modules/arguments, etc.
+1. A healthy codebase that is fairly straightforward to work with. This includes well-structured && fairly-comprehensive testing, minimal cruft, sensibly named methods/classes/modules/arguments, etc.
 2. The existence and promotion of best-practices/standards such that 1) the codebase may retain its health, 2) SE programming skills are kept sharp.
 3. Minimal/non-existent after-hours responsibility for minor code breakage.
 4. Strong interfacing between SE's and story stakeholders.
