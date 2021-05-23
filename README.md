@@ -15,3 +15,20 @@ By design, there is some repetition across questions, the goal being to feel out
 6. Management-driven promotion of cruft reduction.
 7. A culture that is strongly driven by good-code principles in such-a-way that these principles compete with speed-to-market concerns.
 8. Ease-of-use/good-documentation regarding development environment setup.
+9. Sufficient staffing 
+
+## WHAT IS MY WORST-CASE-SCENARIO SE Environment?
+
+1. Frequent production incidents
+2. Frequent after hours on-call problems
+3. No support from management to eliminate cruft
+4. Pressure from management to write code quickly rather than well
+5. Lack of department standards aimed to insure codebase health
+6. Management-driven story pointing
+7. Poor interfacing with story stakeholders, manifesting as a) stories that cannot be understood, b) follow-up that is unattainable
+8. Lack of standardization of development environments
+9. Lack of proper test discipline
+10. Compliance responsibilities without clear understanding of compliance expectations.
+11. Consistently insufficient staffing
+12. A department culture that avoids knowledge sharing
+13. A department culture that doesn't really care about "good code"
