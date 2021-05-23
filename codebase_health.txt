@@ -4,7 +4,7 @@ A:
 2. Are all TODOs in your codebase referenced  properly in the backlog? 
 A:
 
-3. Do the TODOs in your database suggest a frustration  between the engineer's opinion of best practice and how-they-were-compelled-to-write-bad-code?
+3. Do the TODOs in your codebase suggest a frustration  between the engineer's opinion of best practice and how-they-were-compelled-to-write-bad-code?
 A:
 
 4. Do objects in your codebase use a state machine to transition safely between states? If not, why not?
