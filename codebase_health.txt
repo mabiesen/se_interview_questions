@@ -1,0 +1,18 @@
+1. How many tables exist in  your application's database(s) that are no longer  utilized in any capacity? What is your process for removing/archiving these tables?
+A:
+
+2. Are all TODOs in your codebase referenced  properly in the backlog? 
+A:
+
+3. Do the TODOs in your database suggest a frustration  between the engineer's opinion of best practice and how-they-were-compelled-to-write-bad-code?
+A:
+
+4. Do objects in your codebase use a state machine to transition safely between states?
+A:
+
+5. Do you find your application truly owns most of its features, or do you find that many features have been transitioned away from the application (i.e. into oa secondary  batching system/other-unofficial-production-service)?
+A:
+
+6. IF data validations for your application occur at the application layer rather than the database layer, do ALL your DB operations utilize the application layer?
+A:
+

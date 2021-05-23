@@ -1,0 +1,28 @@
+1. Do you find that knowledge sharing within your department is pretty strong, or do you feel that knowledge is often siloed?
+A:
+
+
+2. Do you pick from the story todo list for a given sprint or are the stories assigned?
+A:
+
+
+3. What percentage of stories do you feel contribute new information to your programming knowledge base?
+A:
+
+
+4. How often do you write "bad code" relative to your expectations, within 8 sprints lets say? Just to meet the expectations of a story in  minimalist fashion?
+A:
+
+
+5. Do you find that your own understanding of proper programming principles is enhanced by the work that you do?
+A:
+
+6. Do you have the opportunity to work with new technologies in your code (i.e. new library, new principles, new languages, etc)?
+A:
+
+7. Would you say that most of your coworkers find value in thinking about and applying best practices to their code, or would you say they are more interested in just-accomplishing-the-task-at-hand?
+A:
+
+8. In your opinion: does your department as a whole write "good code"?
+A: 
+

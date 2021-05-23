@@ -1,0 +1,15 @@
+1. How often do you find yourself in a production incident outside of work hours?
+A:
+
+2. Do you have on-call responsibilities for issues that are not production incidents? If so, how often are you woken up in  the night or compelled to attend to an issue during family-gatherings/holidays?
+A:
+
+3. Do you find that your department has a strong culture of cooperation, or do you receive crass responses to genuine questions?
+A:
+
+4. Do you feel that work is evenly distributed in your department, or do you find that some individuals carry more load than others?
+A:
+
+5. Do you find that your department is adequately staffed to handle its responsibilities?
+A:
+
